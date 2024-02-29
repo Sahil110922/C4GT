@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>Shruti Agarwal</td>
+    <td>Shurti Aggrawal</td>
   </tr>
   <tr>
     <td>GitHub</td>
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>College</td>
-    <td>JSS Academy of Technical Education, Noida</td>
+    <td> </td>
   </tr>
 </table>
 <table>
@@ -908,4 +908,23 @@
       <td>College</td>
       <td>SRCC</td>
   </tr>
+  </table>
+<table>
+  <tr>
+    <td>Name</td>
+    <td>sahil Kumar</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/sahil110922</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/sahilkuamr-ag</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Maharaja surajmal institute, janakpuri </td>
+  </tr>
 </table>
+  
